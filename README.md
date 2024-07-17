@@ -5,7 +5,7 @@
 </picture>
 
 ## About Me
-I'm a full stack software developer attending Nashville Software School. I have many years of experience in Merchandising, Project Management, and the retail industry.
+I'm a full stack software developer attending Nashville Software School. I have over 10 years of experience in Merchandising, Project Management, and the retail industry.
 
 ## My Tech Stack
 | | Languages & Tools |
@@ -13,13 +13,16 @@ I'm a full stack software developer attending Nashville Software School. I have 
 |     1|HTML|
 |     2|CSS|
 |     3|JavaScript|
-|     4|BootStrap|
-|     5|Git|
-|     6|GitHub|
-|     7|Photoshop|
+|     4|React|
+|     5|BootStrap|
+|     6|C#|
+|     7|.NET|
+|     8|Git|
+|     9|GitHub|
+|     10|Photoshop|
 
 ## What I am Currently Learning
-I am currently working to add React and Next.js to my tech stack.
+I am currently learning C# & .NET.
 
 ## Connect with Me
 <a href="https://www.linkedin.com/in/felicia-mings/" rel="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="linkedin icon" width="75"></a>
