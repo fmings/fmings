@@ -28,7 +28,7 @@ I am currently learning C# & .NET.
 <a href="https://www.linkedin.com/in/felicia-mings/" rel="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="linkedin icon" width="75"></a>
 
 ## Check Out my Portfolio
-<a href="https://feliciamings.journoportfolio.com/" rel="portfolio"><img src="https://i.imgur.com/rxXUkwO.png" alt="portfolio icon" width="75"></a>
+<a href="https://feliciamings.netlify.app/" rel="portfolio"><img src="https://i.imgur.com/rxXUkwO.png" alt="portfolio icon" width="75"></a>
 
 ## My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fmings&card_width=495)](https://git.io/streak-stats)
